@@ -3,7 +3,7 @@
 
 
 ## To view exam front code go to master branch
-## Go to master-> readme for info about how to run this app in your local machine
+
 
 # Tech stack :smile::
 #### Backend
