@@ -3,6 +3,26 @@
 
 
 ## To view exam front code go to master branch
+## Go to master-> readme for info about how to run this app in your local machine
+
+# Tech stack:
+#### Backend
+* Springboot
+* Spring Rest
+* Spring Security
+* Spring Data JPA
+* MySQL
+* 
+#### Frontend
+* Angular 11
+* Angular Material UI
+* HTML 5
+* Bootstrap 5
+* CSS 3
+#### Tools and software used:
+* Spring tool suite 4
+* MySQL workbench
+* VS Code
 
 ### This is the home page
 
