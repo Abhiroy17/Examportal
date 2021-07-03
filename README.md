@@ -1,11 +1,11 @@
 # Examportal
-# Fullstack exam portal app using springboot and angular
+# Fullstack exam portal app using springboot and angular :relaxed:
 
 
 ## To view exam front code go to master branch
 ## Go to master-> readme for info about how to run this app in your local machine
 
-# Tech stack:
+# Tech stack :smile::
 #### Backend
 * Springboot
 * Spring Rest
