@@ -13,18 +13,18 @@
 * Spring Data JPA
 * MySQL
 * 
-#### Frontend
+#### Frontend :sparkles:
 * Angular 11
 * Angular Material UI
 * HTML 5
 * Bootstrap 5
 * CSS 3
-#### Tools and software used:
+#### Tools and software used :sparkles::
 * Spring tool suite 4
 * MySQL workbench
 * VS Code
 
-### This is the home page
+### This is the home page :house::house:
 
 ![home](https://user-images.githubusercontent.com/67745190/124360220-3df1a480-dc46-11eb-88f1-bfc6a11e5141.PNG)
 ### Admin login
@@ -34,9 +34,9 @@
 ![Admin Home](https://user-images.githubusercontent.com/67745190/124360227-45b14900-dc46-11eb-8502-ed6f36b3715f.PNG)
 ### Admin profile view
 ![Profileadmin](https://user-images.githubusercontent.com/67745190/124360230-4944d000-dc46-11eb-9790-aa8bf0978f1a.PNG)
-### Categories for the quizzes
+### Categories for the quizzes :grinning:
 ![AdminCategories](https://user-images.githubusercontent.com/67745190/124360273-72656080-dc46-11eb-8735-2f04537a144a.PNG)
-### Feature to add a category
+### Feature to add a category :grinning:
 ![Addcat](https://user-images.githubusercontent.com/67745190/124360275-742f2400-dc46-11eb-8d5a-2ddb5f48fa77.PNG)
 ![QuizAdmin](https://user-images.githubusercontent.com/67745190/124360276-76917e00-dc46-11eb-9e5b-2579860d2afa.PNG)
 ### List of all quizzes
@@ -51,7 +51,7 @@
 ![Attemptquiz](https://user-images.githubusercontent.com/67745190/124360301-9f197800-dc46-11eb-80ef-0f14a2665287.PNG)
 ## Quiz will be auto submitted or user can choose to submit manually
 ![Submit result](https://user-images.githubusercontent.com/67745190/124360302-a0e33b80-dc46-11eb-8ce4-480d650f3baf.PNG)
-## Mobile view responsive
+## Mobile view responsive :grinning:
 ![Mobile view](https://user-images.githubusercontent.com/67745190/124360304-a476c280-dc46-11eb-93e5-cfc6b3c408fc.PNG)
 
 ![Mobile view 2](https://user-images.githubusercontent.com/67745190/124360309-a93b7680-dc46-11eb-9a52-2ea17e948e10.PNG)
