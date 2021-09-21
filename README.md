@@ -2,7 +2,7 @@
 # Fullstack exam portal app using springboot and angular :relaxed:
 
 
-## To view exam front code go to master branch
+
 
 
 # Tech stack :smile::
